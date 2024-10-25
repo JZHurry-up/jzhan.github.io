@@ -1,7 +1,7 @@
 # Data Scientist & Analyst
 
 ### Education
-Master in Analytics
+Master in Analytics \n
 Bachelor in Mathematics, Statistics and Business
 
 ### Work Experience 
